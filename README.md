@@ -31,7 +31,7 @@ This project demonstrates the basic concept of smart traffic management for futu
 - Arduino IDE
 - Proteus 8 Professional
 
-  🚦 System Workflow
+🚦 System Workflow
 
 -> Normal Traffic Mode
 
@@ -49,7 +49,7 @@ This project demonstrates the basic concept of smart traffic management for futu
 5. EV passes the intersection safely.
 6. Traffic returns to normal operation.
 
-  📊 Features
+ 📊 Features
 
 - Intelligent Traffic Signal Control
 - EV Priority System
@@ -58,7 +58,7 @@ This project demonstrates the basic concept of smart traffic management for futu
 - Proteus Simulation
 - Beginner-Friendly Project
 
-  📸 Simulation Output
+📸 Simulation Output
 
 Normal Traffic Operation
 
@@ -72,7 +72,7 @@ EV Priority Mode
 - Green signal is activated immediately.
 - Traffic returns to normal after EV passes.
 
-  📚 Applications
+📚 Applications
 
 - Smart Cities
 - Intelligent Transportation Systems
